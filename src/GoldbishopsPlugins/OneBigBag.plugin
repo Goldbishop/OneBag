@@ -3,7 +3,7 @@
 	<Information>
 		<Name>OneBigBag</Name>
 		<Author>Goldbishop</Author>
-		<Version>2021.12.06.U30</Version>
+		<Version>2023.08.27.U36</Version>
 	</Information>
 	<Package>GoldbishopsPlugins.OneBigBag.Main</Package>
 </Plugin>
